@@ -1,1 +1,3 @@
-# simple-calculator
+# Simple Calculator
+## Python Practice
+
